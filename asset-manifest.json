@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/homepage/static/css/main.2f232944.chunk.css",
+    "main.js": "/homepage/static/js/main.e0c3c222.chunk.js",
+    "main.js.map": "/homepage/static/js/main.e0c3c222.chunk.js.map",
+    "runtime-main.js": "/homepage/static/js/runtime-main.7af52901.js",
+    "runtime-main.js.map": "/homepage/static/js/runtime-main.7af52901.js.map",
+    "static/js/2.446893aa.chunk.js": "/homepage/static/js/2.446893aa.chunk.js",
+    "static/js/2.446893aa.chunk.js.map": "/homepage/static/js/2.446893aa.chunk.js.map",
+    "index.html": "/homepage/index.html",
+    "static/css/main.2f232944.chunk.css.map": "/homepage/static/css/main.2f232944.chunk.css.map",
+    "static/js/2.446893aa.chunk.js.LICENSE.txt": "/homepage/static/js/2.446893aa.chunk.js.LICENSE.txt",
+    "static/js/main.e0c3c222.chunk.js.LICENSE.txt": "/homepage/static/js/main.e0c3c222.chunk.js.LICENSE.txt",
+    "static/media/blk-design-system-react.scss?v=1.2.0": "/homepage/static/media/square5.16283001.png",
+    "static/media/denys.jpg": "/homepage/static/media/denys.1b33975a.jpg",
+    "static/media/fabien-bazanegue.jpg": "/homepage/static/media/fabien-bazanegue.3c5ff5a0.jpg",
+    "static/media/mark-finn.jpg": "/homepage/static/media/mark-finn.40b78857.jpg",
+    "static/media/mike.jpg": "/homepage/static/media/mike.fe979cd1.jpg",
+    "static/media/nucleo-icons.css": "/homepage/static/media/nucleo.bd5cce8b.eot",
+    "static/media/path1.png": "/homepage/static/media/path1.a0d20b60.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7af52901.js",
+    "static/js/2.446893aa.chunk.js",
+    "static/css/main.2f232944.chunk.css",
+    "static/js/main.e0c3c222.chunk.js"
+  ]
+}
